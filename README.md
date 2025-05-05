@@ -33,8 +33,8 @@ This repo contains all the scaffolding for our final data‐wrangling project on
 ### Notebooks  
 | Notebook                       | Description                                   |
 |--------------------------------|-----------------------------------------------|
-| `01_data_wrangling.ipynb`      | Ingest, clean, merge raw data into final DF   |
-| `02_EDA_and_Visualizations.ipynb` | Univariate & bivariate analyses                |
+| `TeslaStock.ipynb`             | Ingest, clean, merge raw data into final DF   |
+
 
 ### Links  
 - Raw dataset download: [Kaggle Tesla Stock](https://www.kaggle.com/…/tesla-stock-data)  
