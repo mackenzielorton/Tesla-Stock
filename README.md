@@ -25,10 +25,7 @@ This repo contains all the scaffolding for our final data‐wrangling project on
 - **Inflation (Value):** BEA API  
 - **EPS & Revenue:** Macrotrends  
 
-### How to Run  
-1. `pip install -r requirements.txt`  
-2. Place CSVs in `data/raw/`  
-3. In `notebooks/01_data_wrangling.ipynb`, run cells to clean, merge, and save to `data/processed/merged_data.csv`.
+
 
 ### Notebooks  
 | Notebook                       | Description                                   |
